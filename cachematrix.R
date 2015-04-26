@@ -1,5 +1,6 @@
 ## Coursera R Programming Assignment 2
 ## Author: Scott Elliott
+## Completed April 26, 2015
 
 ## SUMMARY 
 ## These functions are used to take a square invertible matrix object, 
